@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nongski/static/css/main.b8b4dec9.css",
-    "main.js": "/nongski/static/js/main.901415cf.js",
+    "main.js": "/nongski/static/js/main.f3d0a324.js",
     "static/js/787.28cb0dcd.chunk.js": "/nongski/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo-nongski.png": "/nongski/static/media/logo-nongski.0260b2e371ecd19a2947.png",
     "index.html": "/nongski/index.html",
     "main.b8b4dec9.css.map": "/nongski/static/css/main.b8b4dec9.css.map",
-    "main.901415cf.js.map": "/nongski/static/js/main.901415cf.js.map",
+    "main.f3d0a324.js.map": "/nongski/static/js/main.f3d0a324.js.map",
     "787.28cb0dcd.chunk.js.map": "/nongski/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8b4dec9.css",
-    "static/js/main.901415cf.js"
+    "static/js/main.f3d0a324.js"
   ]
 }
